@@ -8,5 +8,6 @@
     "start": "node index.js"
   },
   "author": "G3ntleLi0n",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/TeluTrix/js-utility-x"
 }

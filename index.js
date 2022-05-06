@@ -1,1 +1,0 @@
-//xTimes(() => console.log("TEST"), 2);

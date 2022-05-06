@@ -1,6 +1,6 @@
 {
   "name": "js-utility-x",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,6 @@
   },
   "author": "G3ntleLi0n",
   "license": "ISC",
-  "repository": "https://github.com/TeluTrix/js-utility-x"
+  "repository": "https://github.com/TeluTrix/js-utility-x",
+  "type": "module"
 }

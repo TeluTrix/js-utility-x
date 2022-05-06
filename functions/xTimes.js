@@ -1,6 +1,6 @@
-module.exports = xTimes;
+//module.exports = xTimes;
 
-function xTimes(passedFunc, times){
+export default function xTimes(passedFunc, times){
     if(typeof(times) === "number"){
         for(let i = 0; i < times; i++){
             passedFunc();
